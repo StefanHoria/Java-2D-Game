@@ -1,4 +1,6 @@
-# Joc2D — A 2D Tile-Based Game Engine in Java
+***English** · [Română](README.ro.md)*
+
+# Java 2D Game — A Tile-Based Game Engine in Java
 
 A personal learning project: a top-down 2D game written from scratch in **Java**, with no game
 engine and no external libraries — only the JDK's own `Swing` and `AWT`. The point of the project
